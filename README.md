@@ -1,2 +1,2 @@
 # emart-app
-Deployed e commerce website via cicd process.
+Deployed e commerce website use docker compose.
